@@ -24,3 +24,6 @@ D - move right
 
 Video Demonstration: 
 https://youtu.be/Hyqrx8alyvo
+
+Play on itch.io:
+https://mahiyahasan.itch.io/amarbanglaboi
